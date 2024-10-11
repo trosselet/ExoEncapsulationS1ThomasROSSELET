@@ -1,0 +1,3 @@
+﻿  Integer.cpp
+C:\Users\trosselet\source\repos\TestOverloading\TestOverloading\Integer.cpp(69,22): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  TestOverloading.vcxproj -> C:\Users\trosselet\source\repos\TestOverloading\TestOverloading\x64\Debug\TestOverloading.exe
